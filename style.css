@@ -36,8 +36,8 @@ button:hover{
 .heart {
     width: 100px;
     height: 100px;
-    background-image: url('gambarlove2.gif');
-    background-size: 800px 646px;
+    background-image: url('gambarlove3.png');
+    background-size: cover;
     background-position: center;
     margin: 0 auto;
     animation: heartBeat 1s infinite;
